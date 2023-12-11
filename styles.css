@@ -589,7 +589,7 @@ cursor: pointer;
         width: 32px;
     }
     .song-info {
-        bottom: 56%;
+        bottom: 43%;
         
     }
     .loop {
@@ -602,16 +602,16 @@ cursor: pointer;
     }
     #timerupdates{
         
-        top:20px;
-        left:6px ;
+        top:40px;
+        left:40px ;
         font-size: 11px;
         
     } 
     #durationofsongs{
        
        
-        top:20px;
-        right:6px ;
+        top:40px;
+        right:40px ;
         font-size: 11px;
         
     }
